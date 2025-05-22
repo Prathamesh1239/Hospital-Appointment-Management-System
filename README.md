@@ -2,6 +2,7 @@
 A web-based application that enables patients to book, reschedule, and cancel appointments with doctors across multiple departments. The system includes real-time doctor availability, secure payment integration, role-based access, and an admin dashboard for reports and analytics.
 
 📌 Features
+
 🧍‍♂️ Patient Module: Register, login, manage profile, view doctor availability, book/reschedule/cancel appointments.
 
 🩺 Doctor Module: Login, manage time slots, view upcoming appointments.
@@ -15,6 +16,7 @@ A web-based application that enables patients to book, reschedule, and cancel ap
 📊 Reporting: Admin-level insights on appointments, departments, and revenue trends.
 
 🗂️ Modules
+
 Authentication: Role-based login system (Patient, Doctor, Admin)
 
 Appointment System: Real-time booking with slot locking
@@ -28,6 +30,7 @@ Admin Dashboard: Appointment and revenue reports
 Notification System: Alerts via SMS/email APIs
 
 ⚙️ Tech Stack
+
 Frontend: HTML5, CSS3, JavaScript (or React/Bootstrap)
 
 Backend: Python (Django / Flask)
@@ -41,6 +44,7 @@ Tools: Jira, Figma, Lucidchart, Draw.io
 📷 Screenshots / Wireframes
 
 🧪 Testing
+
 Includes:
 
 Functional Testing
@@ -54,6 +58,7 @@ UAT Test Scenarios
 Bug Tracking via Jira
 
 📄 Documents
+
 ✅ Business Requirements Document (BRD)
 
 ✅ Functional Requirements Document (FRD)
@@ -67,7 +72,9 @@ Bug Tracking via Jira
 ✅ ER Diagram
 
 🧑‍💻 Author
+
 Prathamesh Borole - Data Analyst
+
 https://www.linkedin.com/in/prathamesh-borole-233553258
 
 
