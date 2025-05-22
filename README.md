@@ -1,7 +1,7 @@
 # Hospital-Appointment-Management-System
 A web-based application that enables patients to book, reschedule, and cancel appointments with doctors across multiple departments. The system includes real-time doctor availability, secure payment integration, role-based access, and an admin dashboard for reports and analytics.
 
-📌 Features
+## 📌 Features
 
 🧍‍♂️ Patient Module: Register, login, manage profile, view doctor availability, book/reschedule/cancel appointments.
 
@@ -15,7 +15,7 @@ A web-based application that enables patients to book, reschedule, and cancel ap
 
 📊 Reporting: Admin-level insights on appointments, departments, and revenue trends.
 
-🗂️ Modules
+## 🗂️ Modules
 
 Authentication: Role-based login system (Patient, Doctor, Admin)
 
@@ -29,7 +29,7 @@ Admin Dashboard: Appointment and revenue reports
 
 Notification System: Alerts via SMS/email APIs
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript (or React/Bootstrap)
 
@@ -41,9 +41,9 @@ Payment Gateway: Razorpay / Stripe API
 
 Tools: Jira, Figma, Lucidchart, Draw.io
 
-📷 Screenshots / Wireframes
+## 📷 Screenshots / Wireframes
 
-🧪 Testing
+## 🧪 Testing
 
 Includes:
 
@@ -57,7 +57,7 @@ UAT Test Scenarios
 
 Bug Tracking via Jira
 
-📄 Documents
+## 📄 Documents
 
 ✅ Business Requirements Document (BRD)
 
@@ -71,7 +71,7 @@ Bug Tracking via Jira
 
 ✅ ER Diagram
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Prathamesh Borole - Data Analyst
 
